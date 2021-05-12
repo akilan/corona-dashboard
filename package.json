@@ -10,7 +10,7 @@
     "ajv": "6.10.0",
     "axios": "^0.19.2",
     "bootstrap": "4.3.1",
-    "chart.js": "2.8.0",
+    "chart.js": "2.9.4",
     "cheerio": "^1.0.0-rc.3",
     "history": "4.9.0",
     "jquery": "3.4.1",
